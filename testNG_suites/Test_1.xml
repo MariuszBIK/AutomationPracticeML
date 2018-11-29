@@ -1,0 +1,7 @@
+<suite name="Test_1">
+<test name="gotToWomenPage">
+    <classes>
+        <class name = "pl.b2b.net.automationPractice.pages.homePage.TestHomePage"/>
+    </classes>
+</test>
+</suite>
